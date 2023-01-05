@@ -1348,3 +1348,1672 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.01.04-19.38.52:271][228]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2023.01.04-19.38.52:271][228]LogContentValidation: Display: Validating WidgetBlueprint /Game/Items/Armas/HUD/HUD_Municion.HUD_Municion
 [2023.01.04-19.38.52:271][228]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.04-19.40.52:792][668]BlueprintLog: New page: Compilar HUD_Municion
+[2023.01.04-19.40.52:861][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.01.04-19.41.56:746][567]BlueprintLog: New page: Compilar HUD_Municion
+[2023.01.04-19.41.56:783][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.01.04-19.41.57:482][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Armas/HUD/HUD_Municion" FILE="../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset" SILENT=true
+[2023.01.04-19.41.57:489][629]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/HUD_MunicionF1B19C8C4E71D27EBC29828A15BFB758.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset'
+[2023.01.04-19.41.57:499][629]AssetCheck: New page: Asset Save: HUD_Municion
+[2023.01.04-19.41.57:499][629]LogContentValidation: Display: Validating WidgetBlueprint /Game/Items/Armas/HUD/HUD_Municion.HUD_Municion
+[2023.01.04-19.42.05:571][543]BlueprintLog: New page: Compilar HUD_Municion
+[2023.01.04-19.42.05:618][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.01.04-19.42.08:229][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.01.04-19.42.08:251][795]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMapF42E97E04538670918A933BECFD3CA9E.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.04-19.42.08:384][795]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap_BuiltData8777CE7844ABF56DCFC4729703998EDB.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.04-19.42.08:395][795]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-19.42.08:395][795]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.01.04-19.42.08:395][795]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.04-19.46.15:761][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.01.04-19.46.17:036][106]LogSlate: Window 'Guardar contenido' being destroyed
+[2023.01.04-19.46.17:106][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Armas/HUD/HUD_Municion" FILE="../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset" SILENT=true
+[2023.01.04-19.46.17:114][106]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/HUD_Municion49C7F79146E3207A76538BAC9327D938.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset'
+[2023.01.04-19.46.17:123][106]AssetCheck: New page: Asset Save: HUD_Municion
+[2023.01.04-19.46.17:123][106]LogContentValidation: Display: Validating WidgetBlueprint /Game/Items/Armas/HUD/HUD_Municion.HUD_Municion
+[2023.01.04-19.51.09:660][214]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.09:660][214]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.11:127][388]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-19.51.11:214][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.01.04-19.51.11:397][389]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.11:397][389]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.40:307][786]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.40:307][786]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.40:540][812]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.40:540][812]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.41:447][916]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.41:447][916]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.45:961][390]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-19.51.46:042][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.01.04-19.51.46:223][391]LogPropertyNode: Warning: Clamp Min (150) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.46:223][391]LogPropertyNode: Warning: UI Min (150) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.47:636][541]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.47:636][541]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-19.51.48:988][676]LogPropertyNode: Warning: Clamp Min (150) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.48:988][676]LogPropertyNode: Warning: UI Min (150) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.51:972][963]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.51:972][963]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.52:640][ 37]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-19.51.52:718][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.01.04-19.51.52:911][ 38]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.52:911][ 38]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-19.51.53:488][ 75]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter8A870C0747B80C1FB4B51BA9B076ED5C.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-19.51.53:499][ 75]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-19.51.53:499][ 75]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-19.51.57:500][435]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-19.51.57:504][435]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.04-19.51.57:505][435]LogPlayLevel: [PlayLevel] Compiling MunicionRifle before play...
+[2023.01.04-19.51.57:558][435]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.01.04-19.51.57:559][435]LogPlayLevel: PlayLevel: Blueprint regeneration took 55 ms (1 blueprints)
+[2023.01.04-19.51.57:559][435]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 07:51:57)
+[2023.01.04-19.51.57:559][435]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-19.51.57:567][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008082s)
+[2023.01.04-19.51.57:568][435]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-19.51.57:568][435]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2023.01.04-19.51.57:568][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009204s)
+[2023.01.04-19.51.57:596][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.01.04-19.51.57:596][435]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-19.51.57:597][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-19.51.57:597][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-19.51.57:597][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-19.51.57:597][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-19.51.57:597][435]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-19.51.57:599][435]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-19.51.57:599][435]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-19.51.57:609][435]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-19.51.57:609][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-19.51.57:609][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-19.51.57:609][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-19.51.57:610][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-19.51.57:610][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-19.51.57:610][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-19.51.57:610][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-19.51.57:610][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-19.51.57:610][435]LogInit: FAudioDevice initialized.
+[2023.01.04-19.51.57:610][435]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-19.51.57:666][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-19.51.57:666][435]LogLoad: Game class is 'GameMode'
+[2023.01.04-19.51.57:669][435]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-13.51.57
+[2023.01.04-19.51.57:669][435]LogWorld: Bringing up level for play took: 0.001676
+[2023.01.04-19.51.57:669][435]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.01.04-19.51.57:670][435]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-19.51.57:670][435]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-19.51.57:670][435]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-19.51.57:671][435]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-19.51.57:672][435]PIE: El servidor ha iniciado la sesión
+[2023.01.04-19.51.57:673][435]PIE: Play in editor total start time 0.17 seconds.
+[2023.01.04-19.52.09:179][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-19.52.09:179][796]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-19.52.09:181][796]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-19.52.09:187][796]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-19.52.09:188][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-19.52.09:192][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-19.52.09:196][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-19.52.09:222][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-19.52.09:222][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-19.52.09:228][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.01.04-19.52.09:245][797]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.01.04-19.52.13:779][295]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/MunicionRifle43A50305407D0665EC55FDAE1F6B6A7E.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/Rifle1/Balas3/MunicionRifle.uasset'
+[2023.01.04-19.52.13:791][295]AssetCheck: New page: Asset Save: MunicionRifle
+[2023.01.04-19.52.13:792][295]LogContentValidation: Display: Validating Blueprint /Game/Items/Armas/Rifle1/Balas3/MunicionRifle.MunicionRifle
+[2023.01.04-19.52.22:957][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.04-19.52.24:190][326]LogSlate: Window 'Guardar contenido' being destroyed
+[2023.01.04-19.52.24:343][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.01.04-19.52.24:356][326]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap946E7FDF45FF0253FED93492CAF86AD4.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.04-19.52.24:360][326]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.042
+[2023.01.04-19.52.24:369][326]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.04-19.52.24:369][326]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.04-20.01.51:969][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.01.04-20.01.51:994][319]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMapD7E713514C3555689027419CE286A7EA.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.04-20.01.52:119][319]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap_BuiltData28A13BA74A30E2186F44E4AB81D15778.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.04-20.01.52:128][319]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-20.01.52:128][319]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.01.04-20.01.52:128][319]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.04-20.02.08:806][151]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.02.08:806][151]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.02.11:956][519]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.02.11:956][519]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.02.21:341][455]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.21:341][455]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.32:594][574]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.32:594][574]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.35:676][885]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.02.35:676][885]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.02.46:064][960]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.46:064][960]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.48:863][218]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-20.02.48:942][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.01.04-20.02.49:096][219]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.49:096][219]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.02.49:834][263]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacterEF3030604310B8DFEAA55CB6CF407E71.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-20.02.49:843][263]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-20.02.49:843][263]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-20.02.50:463][321]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-20.02.50:467][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-20.02.50:468][321]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 08:02:50)
+[2023.01.04-20.02.50:468][321]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-20.02.50:475][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007467s)
+[2023.01.04-20.02.50:476][321]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-20.02.50:476][321]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2023.01.04-20.02.50:476][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008436s)
+[2023.01.04-20.02.50:508][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.01.04-20.02.50:508][321]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-20.02.50:508][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-20.02.50:508][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-20.02.50:508][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-20.02.50:508][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-20.02.50:508][321]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-20.02.50:510][321]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-20.02.50:510][321]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-20.02.50:520][321]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-20.02.50:520][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-20.02.50:520][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-20.02.50:521][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-20.02.50:521][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-20.02.50:521][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-20.02.50:521][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-20.02.50:522][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-20.02.50:522][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-20.02.50:522][321]LogInit: FAudioDevice initialized.
+[2023.01.04-20.02.50:522][321]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-20.02.50:567][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-20.02.50:567][321]LogLoad: Game class is 'GameMode'
+[2023.01.04-20.02.50:569][321]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-14.02.50
+[2023.01.04-20.02.50:569][321]LogWorld: Bringing up level for play took: 0.001455
+[2023.01.04-20.02.50:569][321]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.01.04-20.02.50:570][321]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-20.02.50:570][321]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-20.02.50:570][321]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-20.02.50:571][321]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-20.02.50:574][321]PIE: El servidor ha iniciado la sesión
+[2023.01.04-20.02.50:578][321]PIE: Play in editor total start time 0.111 seconds.
+[2023.01.04-20.02.58:378][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-20.02.58:378][245]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-20.02.58:380][245]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-20.02.58:389][245]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-20.02.58:390][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-20.02.58:395][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-20.02.58:399][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-20.02.58:425][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-20.02.58:425][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-20.02.58:426][245]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-20.02.58:431][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.04-20.02.58:449][246]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.01.04-20.03.04:871][960]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.03.04:871][960]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.03.07:742][294]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.03.07:742][294]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.03.08:710][351]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.03.08:710][351]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.03.11:013][586]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-20.03.11:090][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.01.04-20.03.11:229][587]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.03.11:230][587]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.03.15:070][  1]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacterC77C89B24419D97B0EDC12A1F3174C0B.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-20.03.15:081][  1]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-20.03.15:081][  1]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-20.03.15:599][ 61]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-20.03.15:604][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-20.03.15:604][ 61]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 08:03:15)
+[2023.01.04-20.03.15:604][ 61]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-20.03.15:612][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008078s)
+[2023.01.04-20.03.15:613][ 61]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-20.03.15:613][ 61]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2023.01.04-20.03.15:613][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009115s)
+[2023.01.04-20.03.15:646][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.01.04-20.03.15:646][ 61]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.01.04-20.03.15:646][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-20.03.15:646][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-20.03.15:646][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-20.03.15:646][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-20.03.15:646][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-20.03.15:646][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-20.03.15:646][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-20.03.15:646][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-20.03.15:647][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-20.03.15:647][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-20.03.15:647][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-20.03.15:647][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-20.03.15:649][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-20.03.15:649][ 61]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-20.03.15:658][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-20.03.15:658][ 61]LogInit: FAudioDevice initialized.
+[2023.01.04-20.03.15:658][ 61]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-20.03.15:698][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-20.03.15:698][ 61]LogLoad: Game class is 'GameMode'
+[2023.01.04-20.03.15:700][ 61]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-14.03.15
+[2023.01.04-20.03.15:700][ 61]LogWorld: Bringing up level for play took: 0.001576
+[2023.01.04-20.03.15:700][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.01.04-20.03.15:701][ 61]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-20.03.15:701][ 61]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-20.03.15:701][ 61]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-20.03.15:702][ 61]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-20.03.15:705][ 61]PIE: El servidor ha iniciado la sesión
+[2023.01.04-20.03.15:708][ 61]PIE: Play in editor total start time 0.105 seconds.
+[2023.01.04-20.03.26:519][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-20.03.26:519][327]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-20.03.26:521][327]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-20.03.26:529][327]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-20.03.26:529][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-20.03.26:534][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-20.03.26:538][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-20.03.26:561][327]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-20.03.26:562][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-20.03.26:563][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-20.03.26:568][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.01.04-20.03.26:584][328]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.01.04-20.03.38:690][736]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-20.03.38:766][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.01.04-20.03.39:816][804]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter57131759495CEA0223230CAE4C784E2E.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-20.03.39:827][804]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-20.03.39:827][804]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-20.07.07:022][482]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.07:022][482]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.10:446][729]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.10:446][729]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.23:217][193]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.23:217][193]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.24:447][304]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.24:447][304]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.07.38:351][736]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-20.07.38:436][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.01.04-20.09.09:185][866]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.09.09:185][866]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.09.09:735][887]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.09.09:735][887]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.09.10:316][939]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.09.10:316][939]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.09.22:185][212]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.09.22:186][212]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-20.10.20:803][399]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.10.20:803][399]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.10.24:764][676]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.10.24:764][676]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.10.28:921][113]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-20.10.29:003][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.01.04-20.10.29:151][114]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.10.29:151][114]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-20.12.11:011][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.01.04-20.12.11:024][711]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap_Auto270733A5A4AF2DE2378626F9B0B4D89C6.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2023.01.04-20.12.11:026][711]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2023.01.04-20.12.11:026][711]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.01.04-20.12.11:026][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.01.04-20.12.11:047][711]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.01.04-20.12.11:048][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2023.01.04-20.12.11:133][711]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter_Auto2E7BA17A2407BB704DBA5D08743EEEF57.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2023.01.04-20.12.11:133][711]LogFileHelpers: Auto-saving content packages took 0.107
+[2023.01.04-21.19.17:315][936]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter81A2BC8940CE75A00B733F9700BA4684.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-21.19.17:327][936]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-21.19.17:327][936]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-21.37.48:335][556]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-21.37.48:358][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-21.37.48:366][556]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 09:37:48)
+[2023.01.04-21.37.48:373][556]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-21.37.48:452][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078254s)
+[2023.01.04-21.37.48:495][556]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-21.37.48:508][556]LogPlayLevel: PIE: World Init took: (0.054272s)
+[2023.01.04-21.37.48:508][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.135379s)
+[2023.01.04-21.37.48:568][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.01.04-21.37.48:577][556]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.01.04-21.37.48:579][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-21.37.48:579][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-21.37.48:579][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-21.37.48:579][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-21.37.48:579][556]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-21.37.48:579][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-21.37.48:579][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-21.37.48:579][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-21.37.48:582][556]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-21.37.48:582][556]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-21.37.48:582][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-21.37.48:582][556]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-21.37.48:586][556]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-21.37.48:586][556]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-21.37.48:596][556]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-21.37.48:600][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-21.37.48:600][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-21.37.48:601][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-21.37.48:602][556]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-21.37.48:602][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-21.37.48:603][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-21.37.48:608][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-21.37.48:608][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-21.37.48:608][556]LogInit: FAudioDevice initialized.
+[2023.01.04-21.37.48:608][556]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-21.37.48:656][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-21.37.48:658][556]LogLoad: Game class is 'GameMode'
+[2023.01.04-21.37.48:698][556]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-15.37.48
+[2023.01.04-21.37.48:701][556]LogWorld: Bringing up level for play took: 0.041611
+[2023.01.04-21.37.48:709][556]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.01.04-21.37.48:728][556]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-21.37.48:728][556]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-21.37.48:728][556]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-21.37.48:734][556]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-21.37.48:739][556]PIE: El servidor ha iniciado la sesión
+[2023.01.04-21.37.48:743][556]PIE: Play in editor total start time 0.392 seconds.
+[2023.01.04-21.39.43:497][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-21.39.43:498][267]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-21.39.43:503][267]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-21.39.43:511][267]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-21.39.43:512][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-21.39.43:524][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-21.39.43:528][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-21.39.43:557][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-21.39.43:558][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-21.39.43:558][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-21.39.43:571][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.01.04-21.39.43:590][268]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.01.04-22.25.33:186][  7]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.25.33:186][  7]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.26.44:907][831]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter88BB903043F7EFA160D2D5A2EF14363E.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-22.26.44:924][831]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-22.26.44:924][831]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-22.27.49:219][ 87]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.27.49:219][ 87]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.28.23:631][556]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-22.28.23:631][556]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-22.28.25:232][665]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.28.25:232][665]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.28.36:751][665]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-22.28.36:920][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.01.04-22.28.42:057][209]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter937FD1924E381D75765F3EAA4BAFAEE8.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-22.28.42:067][209]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-22.28.42:067][209]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-22.28.44:046][416]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-22.28.44:050][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-22.28.44:050][416]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 10:28:44)
+[2023.01.04-22.28.44:050][416]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.28.44:058][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008102s)
+[2023.01.04-22.28.44:059][416]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-22.28.44:059][416]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2023.01.04-22.28.44:059][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009389s)
+[2023.01.04-22.28.44:101][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.01.04-22.28.44:102][416]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-22.28.44:102][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-22.28.44:102][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-22.28.44:102][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-22.28.44:102][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-22.28.44:102][416]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-22.28.44:104][416]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-22.28.44:104][416]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-22.28.44:115][416]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-22.28.44:115][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-22.28.44:115][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-22.28.44:115][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-22.28.44:116][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-22.28.44:116][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-22.28.44:116][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-22.28.44:116][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-22.28.44:116][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-22.28.44:116][416]LogInit: FAudioDevice initialized.
+[2023.01.04-22.28.44:116][416]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-22.28.44:165][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.28.44:165][416]LogLoad: Game class is 'GameMode'
+[2023.01.04-22.28.44:167][416]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-16.28.44
+[2023.01.04-22.28.44:167][416]LogWorld: Bringing up level for play took: 0.001440
+[2023.01.04-22.28.44:167][416]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.01.04-22.28.44:169][416]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.28.44:169][416]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.28.44:169][416]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.28.44:169][416]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.28.44:173][416]PIE: El servidor ha iniciado la sesión
+[2023.01.04-22.28.44:176][416]PIE: Play in editor total start time 0.128 seconds.
+[2023.01.04-22.28.46:407][669]Set new viewmode: Wireframe
+[2023.01.04-22.28.46:980][738]Set new viewmode: Wireframe
+[2023.01.04-22.28.47:421][791]Set new viewmode: Lit
+[2023.01.04-22.29.02:067][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.29.02:067][539]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.29.02:069][539]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-22.29.02:077][539]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.29.02:077][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.29.02:089][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.29.02:094][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.29.02:120][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-22.29.02:120][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.29.02:121][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.29.02:126][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.04-22.29.02:144][540]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.01.04-22.29.04:692][838]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-22.29.04:696][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-22.29.04:696][838]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 10:29:04)
+[2023.01.04-22.29.04:696][838]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.29.04:706][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008969s)
+[2023.01.04-22.29.04:706][838]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-22.29.04:712][838]LogPlayLevel: PIE: World Init took: (0.006811s)
+[2023.01.04-22.29.04:712][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015894s)
+[2023.01.04-22.29.04:743][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.01.04-22.29.04:743][838]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.01.04-22.29.04:743][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-22.29.04:744][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-22.29.04:744][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-22.29.04:744][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-22.29.04:744][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-22.29.04:744][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-22.29.04:744][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-22.29.04:744][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-22.29.04:744][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-22.29.04:744][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-22.29.04:744][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-22.29.04:744][838]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-22.29.04:746][838]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-22.29.04:746][838]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-22.29.04:755][838]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-22.29.04:756][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-22.29.04:756][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-22.29.04:756][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-22.29.04:756][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-22.29.04:756][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-22.29.04:756][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-22.29.04:757][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-22.29.04:757][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-22.29.04:757][838]LogInit: FAudioDevice initialized.
+[2023.01.04-22.29.04:757][838]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-22.29.04:803][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.29.04:803][838]LogLoad: Game class is 'GameMode'
+[2023.01.04-22.29.04:805][838]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-16.29.04
+[2023.01.04-22.29.04:805][838]LogWorld: Bringing up level for play took: 0.001388
+[2023.01.04-22.29.04:806][838]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.01.04-22.29.04:807][838]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.29.04:807][838]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.29.04:807][838]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.29.04:807][838]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.29.04:811][838]PIE: El servidor ha iniciado la sesión
+[2023.01.04-22.29.04:814][838]PIE: Play in editor total start time 0.119 seconds.
+[2023.01.04-22.29.42:964][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.29.42:964][400]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.29.42:964][400]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-22.29.42:970][400]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.29.42:970][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.29.42:980][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.29.42:984][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.29.43:011][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.29.43:012][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.29.43:017][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.01.04-22.29.43:034][401]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.01.04-22.29.44:002][516]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-22.29.44:005][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-22.29.44:005][516]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 10:29:44)
+[2023.01.04-22.29.44:005][516]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.29.44:014][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009367s)
+[2023.01.04-22.29.44:015][516]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-22.29.44:015][516]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2023.01.04-22.29.44:015][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010579s)
+[2023.01.04-22.29.44:045][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.04-22.29.44:046][516]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.01.04-22.29.44:046][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-22.29.44:046][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-22.29.44:046][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-22.29.44:046][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-22.29.44:046][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-22.29.44:046][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-22.29.44:046][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-22.29.44:046][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-22.29.44:046][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-22.29.44:047][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-22.29.44:047][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-22.29.44:047][516]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-22.29.44:048][516]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-22.29.44:048][516]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-22.29.44:058][516]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-22.29.44:058][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-22.29.44:058][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-22.29.44:058][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-22.29.44:058][516]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-22.29.44:058][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-22.29.44:058][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-22.29.44:059][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-22.29.44:059][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-22.29.44:059][516]LogInit: FAudioDevice initialized.
+[2023.01.04-22.29.44:059][516]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-22.29.44:122][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.29.44:122][516]LogLoad: Game class is 'GameMode'
+[2023.01.04-22.29.44:124][516]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-16.29.44
+[2023.01.04-22.29.44:124][516]LogWorld: Bringing up level for play took: 0.001430
+[2023.01.04-22.29.44:124][516]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.01.04-22.29.44:126][516]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.29.44:126][516]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.29.44:126][516]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.29.44:126][516]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.29.44:131][516]PIE: El servidor ha iniciado la sesión
+[2023.01.04-22.29.44:134][516]PIE: Play in editor total start time 0.129 seconds.
+[2023.01.04-22.29.57:288][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.29.57:288][ 77]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.29.57:289][ 77]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-22.29.57:298][ 77]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.29.57:298][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.29.57:302][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.29.57:306][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.29.57:332][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.29.57:333][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.29.57:338][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.01.04-22.29.57:364][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.01.04-22.30.19:531][579]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.30.19:531][579]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-22.30.24:373][901]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-22.30.24:374][901]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-22.30.26:999][164]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-22.30.27:003][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-22.30.27:003][164]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 10:30:27)
+[2023.01.04-22.30.27:004][164]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.30.27:012][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008453s)
+[2023.01.04-22.30.27:013][164]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-22.30.27:013][164]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2023.01.04-22.30.27:013][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009415s)
+[2023.01.04-22.30.27:042][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.04-22.30.27:043][164]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-22.30.27:043][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-22.30.27:043][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-22.30.27:043][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-22.30.27:043][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-22.30.27:043][164]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-22.30.27:045][164]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-22.30.27:045][164]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-22.30.27:055][164]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-22.30.27:055][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-22.30.27:055][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-22.30.27:055][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-22.30.27:055][164]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-22.30.27:056][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-22.30.27:056][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-22.30.27:056][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-22.30.27:056][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-22.30.27:056][164]LogInit: FAudioDevice initialized.
+[2023.01.04-22.30.27:056][164]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-22.30.27:093][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.30.27:094][164]LogLoad: Game class is 'GameMode'
+[2023.01.04-22.30.27:095][164]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-16.30.27
+[2023.01.04-22.30.27:096][164]LogWorld: Bringing up level for play took: 0.001423
+[2023.01.04-22.30.27:096][164]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.01.04-22.30.27:097][164]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.30.27:097][164]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.30.27:097][164]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.30.27:098][164]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.30.27:101][164]PIE: El servidor ha iniciado la sesión
+[2023.01.04-22.30.27:105][164]PIE: Play in editor total start time 0.102 seconds.
+[2023.01.04-22.31.33:127][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.31.33:127][ 65]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.31.33:133][ 65]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-22.31.33:141][ 65]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.31.33:142][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.31.33:147][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.31.33:152][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.31.33:178][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.31.33:179][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.31.33:184][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.04-22.31.33:201][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.01.04-22.32.00:402][744]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-22.32.00:484][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.01.04-22.32.02:052][889]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-22.32.02:056][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-22.32.02:057][889]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 10:32:02)
+[2023.01.04-22.32.02:057][889]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.32.02:066][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009495s)
+[2023.01.04-22.32.02:067][889]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-22.32.02:067][889]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2023.01.04-22.32.02:067][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010296s)
+[2023.01.04-22.32.02:099][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.01.04-22.32.02:100][889]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.01.04-22.32.02:100][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-22.32.02:100][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-22.32.02:100][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-22.32.02:101][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-22.32.02:101][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-22.32.02:101][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-22.32.02:101][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-22.32.02:101][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-22.32.02:101][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-22.32.02:101][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-22.32.02:101][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-22.32.02:101][889]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-22.32.02:103][889]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-22.32.02:103][889]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-22.32.02:113][889]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-22.32.02:113][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-22.32.02:113][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-22.32.02:113][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-22.32.02:113][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-22.32.02:113][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-22.32.02:113][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-22.32.02:114][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-22.32.02:114][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-22.32.02:114][889]LogInit: FAudioDevice initialized.
+[2023.01.04-22.32.02:114][889]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-22.32.02:155][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.32.02:155][889]LogLoad: Game class is 'GameMode'
+[2023.01.04-22.32.02:157][889]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-16.32.02
+[2023.01.04-22.32.02:157][889]LogWorld: Bringing up level for play took: 0.001401
+[2023.01.04-22.32.02:157][889]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.01.04-22.32.02:159][889]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.32.02:159][889]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.32.02:159][889]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.32.02:159][889]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.32.02:163][889]PIE: El servidor ha iniciado la sesión
+[2023.01.04-22.32.02:166][889]PIE: Play in editor total start time 0.11 seconds.
+[2023.01.04-22.32.29:047][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.32.29:048][ 97]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.32.29:049][ 97]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-22.32.29:057][ 97]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.32.29:058][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.32.29:065][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.32.29:069][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.32.29:095][ 97]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-22.32.29:095][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.32.29:096][ 97]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.32.29:101][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.01.04-22.32.29:119][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.01.04-22.34.32:077][546]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-22.34.32:161][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.01.04-22.34.33:814][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-22.34.33:818][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-22.34.33:818][700]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 10:34:33)
+[2023.01.04-22.34.33:818][700]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.34.33:827][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009164s)
+[2023.01.04-22.34.33:828][700]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-22.34.33:828][700]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2023.01.04-22.34.33:828][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010332s)
+[2023.01.04-22.34.33:862][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.01.04-22.34.33:862][700]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.01.04-22.34.33:862][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-22.34.33:862][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-22.34.33:862][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-22.34.33:862][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-22.34.33:862][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-22.34.33:862][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-22.34.33:862][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-22.34.33:862][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-22.34.33:863][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-22.34.33:863][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-22.34.33:863][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-22.34.33:863][700]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-22.34.33:865][700]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-22.34.33:865][700]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-22.34.33:874][700]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-22.34.33:874][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-22.34.33:874][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-22.34.33:874][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-22.34.33:875][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-22.34.33:875][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-22.34.33:875][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-22.34.33:876][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-22.34.33:876][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-22.34.33:876][700]LogInit: FAudioDevice initialized.
+[2023.01.04-22.34.33:876][700]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-22.34.33:937][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.34.33:937][700]LogLoad: Game class is 'GameMode'
+[2023.01.04-22.34.33:939][700]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-16.34.33
+[2023.01.04-22.34.33:939][700]LogWorld: Bringing up level for play took: 0.001417
+[2023.01.04-22.34.33:940][700]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.01.04-22.34.33:941][700]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.34.33:941][700]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.34.33:941][700]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.34.33:941][700]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.34.33:945][700]PIE: El servidor ha iniciado la sesión
+[2023.01.04-22.34.33:949][700]PIE: Play in editor total start time 0.131 seconds.
+[2023.01.04-22.35.25:657][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.35.25:657][864]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.35.25:659][864]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-22.35.25:667][864]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.35.25:667][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.35.25:673][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.35.25:677][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.35.25:704][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-22.35.25:704][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.35.25:705][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.35.25:710][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.04-22.35.25:729][865]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.01.04-22.35.27:575][ 75]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-22.35.27:579][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-22.35.27:579][ 75]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 10:35:27)
+[2023.01.04-22.35.27:579][ 75]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.35.27:586][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007191s)
+[2023.01.04-22.35.27:587][ 75]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-22.35.27:587][ 75]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2023.01.04-22.35.27:587][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008092s)
+[2023.01.04-22.35.27:616][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.04-22.35.27:618][ 75]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-22.35.27:618][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-22.35.27:618][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-22.35.27:618][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-22.35.27:618][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-22.35.27:618][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-22.35.27:620][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-22.35.27:620][ 75]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-22.35.27:629][ 75]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-22.35.27:630][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-22.35.27:630][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-22.35.27:630][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-22.35.27:630][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-22.35.27:630][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-22.35.27:630][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-22.35.27:631][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-22.35.27:631][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-22.35.27:631][ 75]LogInit: FAudioDevice initialized.
+[2023.01.04-22.35.27:631][ 75]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-22.35.27:665][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.35.27:665][ 75]LogLoad: Game class is 'GameMode'
+[2023.01.04-22.35.27:667][ 75]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-16.35.27
+[2023.01.04-22.35.27:667][ 75]LogWorld: Bringing up level for play took: 0.001483
+[2023.01.04-22.35.27:667][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.01.04-22.35.27:668][ 75]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.35.27:668][ 75]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-22.35.27:668][ 75]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.35.27:669][ 75]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-22.35.27:673][ 75]PIE: El servidor ha iniciado la sesión
+[2023.01.04-22.35.27:677][ 75]PIE: Play in editor total start time 0.099 seconds.
+[2023.01.04-22.36.39:187][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.36.39:187][625]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-22.36.39:193][625]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-22.36.39:202][625]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.36.39:202][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.36.39:212][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.36.39:217][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.36.39:243][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.36.39:244][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-22.36.39:249][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.01.04-22.36.39:268][626]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.01.04-22.37.36:337][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Armas/HUD/HUD_Municion" FILE="../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset" SILENT=true
+[2023.01.04-22.37.36:354][ 97]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/HUD_MunicionCD7DB38340AC2A47C98E8B8591D0B811.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset'
+[2023.01.04-22.37.36:365][ 97]AssetCheck: New page: Asset Save: HUD_Municion
+[2023.01.04-22.37.36:365][ 97]LogContentValidation: Display: Validating WidgetBlueprint /Game/Items/Armas/HUD/HUD_Municion.HUD_Municion
+[2023.01.04-22.38.24:444][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.01.04-22.38.24:469][787]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap_Auto380F5777347FACAAEFE8DE598FD4C78EF.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2023.01.04-22.38.24:471][787]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2023.01.04-22.38.24:471][787]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.01.04-22.38.24:471][787]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.01.04-22.38.24:501][787]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.01.04-22.38.24:501][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2023.01.04-22.38.24:588][787]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter_Auto3E222C01446229409C783309DA61C3872.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2023.01.04-22.38.24:588][787]LogFileHelpers: Auto-saving content packages took 0.118
+[2023.01.04-23.03.55:542][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Items/Armas/HUD/HUD_Municion" FILE="../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset" SILENT=true
+[2023.01.04-23.03.55:550][ 38]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/HUD_Municion24CADB3F4A24F1E7922135871683F2B7.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/Items/Armas/HUD/HUD_Municion.uasset'
+[2023.01.04-23.03.55:562][ 38]AssetCheck: New page: Asset Save: HUD_Municion
+[2023.01.04-23.03.55:562][ 38]LogContentValidation: Display: Validating WidgetBlueprint /Game/Items/Armas/HUD/HUD_Municion.HUD_Municion
+[2023.01.04-23.03.57:843][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.01.04-23.03.59:096][258]LogSlate: Window 'Guardar contenido' being destroyed
+[2023.01.04-23.03.59:399][258]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter342B150544EC2B4440C4169D9432B9E5.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-23.03.59:430][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.04-23.03.59:444][258]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap76EF56EA4848CFC671C7529EDE6229F3.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.04-23.03.59:457][258]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.057
+[2023.01.04-23.03.59:468][258]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-23.03.59:468][258]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-23.03.59:468][258]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.04-23.04.52:208][102]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.04.52:208][102]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.05.22:120][503]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-23.05.22:207][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.01.04-23.05.23:214][574]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacterDC1C619D4845D32149FF5681F70BDC07.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-23.05.23:225][574]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-23.05.23:225][574]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-23.06.23:258][625]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.23:258][625]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.45:148][ 63]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.45:148][ 63]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.45:751][ 87]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.45:751][ 87]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.46:614][146]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.46:614][146]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.06.58:437][198]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-23.06.58:522][198]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.01.04-23.06.59:522][260]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter874E098946F53FD8252362A02099540F.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-23.06.59:539][260]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-23.06.59:539][260]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-23.07.26:029][163]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.07.26:029][163]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.07.28:621][323]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.07.28:621][323]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.07.38:596][150]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.07.38:596][150]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.07.42:896][434]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.07.42:896][434]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.07.44:661][574]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.07.44:661][574]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.07.54:848][456]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.07.54:848][456]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.07.58:048][685]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.07.58:048][685]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.04:115][358]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.04:115][358]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.17:775][785]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.17:775][785]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.36:743][512]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.08.36:743][512]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.08.43:139][208]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.08.43:139][208]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.08.44:700][334]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.44:700][334]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.47:292][569]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.47:292][569]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.53:326][136]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.08.53:326][136]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.09.01:356][912]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.09.01:356][912]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.09.25:987][205]LogPropertyNode: Warning: Clamp Min (30) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.09.25:987][205]LogPropertyNode: Warning: UI Min (30) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BalasCartucho
+[2023.01.04-23.09.28:358][387]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.09.28:358][387]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.09.33:012][870]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-23.09.33:097][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.01.04-23.10.04:621][416]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-23.10.04:625][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-23.10.04:626][416]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 11:10:04)
+[2023.01.04-23.10.04:626][416]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.10.04:634][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008378s)
+[2023.01.04-23.10.04:635][416]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-23.10.04:635][416]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2023.01.04-23.10.04:635][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009527s)
+[2023.01.04-23.10.04:668][416]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.01.04-23.10.04:668][416]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.01.04-23.10.04:668][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-23.10.04:668][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-23.10.04:668][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-23.10.04:668][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-23.10.04:668][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-23.10.04:668][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-23.10.04:668][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-23.10.04:668][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-23.10.04:669][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-23.10.04:669][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-23.10.04:669][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-23.10.04:669][416]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-23.10.04:671][416]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-23.10.04:671][416]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-23.10.04:681][416]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-23.10.04:681][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-23.10.04:681][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-23.10.04:682][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-23.10.04:682][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-23.10.04:682][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-23.10.04:682][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-23.10.04:683][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-23.10.04:683][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-23.10.04:683][416]LogInit: FAudioDevice initialized.
+[2023.01.04-23.10.04:683][416]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-23.10.04:726][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.10.04:726][416]LogLoad: Game class is 'GameMode'
+[2023.01.04-23.10.04:727][416]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-17.10.04
+[2023.01.04-23.10.04:727][416]LogWorld: Bringing up level for play took: 0.001399
+[2023.01.04-23.10.04:728][416]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.01.04-23.10.04:729][416]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.10.04:729][416]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.10.04:729][416]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.10.04:729][416]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.10.04:733][416]PIE: El servidor ha iniciado la sesión
+[2023.01.04-23.10.04:737][416]PIE: Play in editor total start time 0.112 seconds.
+[2023.01.04-23.11.13:974][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.11.13:974][666]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.11.13:975][666]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-23.11.13:980][666]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.11.13:981][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.11.13:988][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-23.11.13:993][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.11.14:022][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-23.11.14:022][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.11.14:023][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.11.14:028][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.01.04-23.11.14:046][667]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.01.04-23.12.00:247][188]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.12.00:247][188]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.12.10:023][186]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.12.10:023][186]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.12.36:464][ 24]LogEditorTransaction: Undo Mover nodos
+[2023.01.04-23.12.37:059][ 38]LogEditorTransaction: Undo Mover nodos
+[2023.01.04-23.12.37:442][ 69]LogEditorTransaction: Undo Paste clipboard contents
+[2023.01.04-23.12.37:726][ 78]LogEditorTransaction: Undo Romper los enlaces del Pin
+[2023.01.04-23.12.38:053][ 93]LogEditorTransaction: Undo Mover nodo
+[2023.01.04-23.12.38:520][124]LogEditorTransaction: Undo Mover nodos
+[2023.01.04-23.13.02:129][429]LogPropertyNode: Warning: Clamp Min (200) >= Clamp Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.13.02:129][429]LogPropertyNode: Warning: UI Min (200) >= UI Max (0) for Ranged Numeric property /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Balas
+[2023.01.04-23.13.16:550][979]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-23.13.16:636][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.01.04-23.13.17:800][ 66]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacterC62725374CE1974957A819B7F347CF2A.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-23.13.17:813][ 66]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-23.13.17:813][ 66]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-23.13.19:955][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-23.13.19:959][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-23.13.19:959][272]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 11:13:19)
+[2023.01.04-23.13.19:959][272]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.13.19:967][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007567s)
+[2023.01.04-23.13.19:968][272]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-23.13.19:968][272]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2023.01.04-23.13.19:968][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008672s)
+[2023.01.04-23.13.20:002][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.01.04-23.13.20:002][272]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-23.13.20:002][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-23.13.20:002][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-23.13.20:002][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-23.13.20:002][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-23.13.20:002][272]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-23.13.20:005][272]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-23.13.20:005][272]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-23.13.20:015][272]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-23.13.20:016][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-23.13.20:016][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-23.13.20:016][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-23.13.20:016][272]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-23.13.20:016][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-23.13.20:016][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-23.13.20:017][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-23.13.20:017][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-23.13.20:017][272]LogInit: FAudioDevice initialized.
+[2023.01.04-23.13.20:017][272]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-23.13.20:060][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.13.20:060][272]LogLoad: Game class is 'GameMode'
+[2023.01.04-23.13.20:062][272]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-17.13.20
+[2023.01.04-23.13.20:062][272]LogWorld: Bringing up level for play took: 0.001497
+[2023.01.04-23.13.20:062][272]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.01.04-23.13.20:063][272]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.13.20:063][272]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.13.20:063][272]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.13.20:064][272]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.13.20:067][272]PIE: El servidor ha iniciado la sesión
+[2023.01.04-23.13.20:071][272]PIE: Play in editor total start time 0.111 seconds.
+[2023.01.04-23.13.31:497][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.13.31:497][626]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.13.31:499][626]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-23.13.31:506][626]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.13.31:507][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.13.31:513][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-23.13.31:517][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.13.31:542][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-23.13.31:542][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.13.31:543][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.13.31:548][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.04-23.13.31:573][628]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.01.04-23.14.24:164][ 49]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-23.14.24:247][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.01.04-23.14.25:420][151]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-23.14.25:424][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-23.14.25:424][151]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 11:14:25)
+[2023.01.04-23.14.25:424][151]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.14.25:433][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008191s)
+[2023.01.04-23.14.25:433][151]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-23.14.25:434][151]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2023.01.04-23.14.25:434][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009325s)
+[2023.01.04-23.14.25:465][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.01.04-23.14.25:466][151]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-23.14.25:466][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-23.14.25:466][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-23.14.25:466][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-23.14.25:466][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-23.14.25:466][151]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-23.14.25:468][151]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-23.14.25:468][151]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-23.14.25:478][151]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-23.14.25:478][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-23.14.25:478][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-23.14.25:478][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-23.14.25:478][151]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-23.14.25:478][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-23.14.25:478][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-23.14.25:479][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-23.14.25:479][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-23.14.25:479][151]LogInit: FAudioDevice initialized.
+[2023.01.04-23.14.25:479][151]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-23.14.25:516][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.14.25:516][151]LogLoad: Game class is 'GameMode'
+[2023.01.04-23.14.25:518][151]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-17.14.25
+[2023.01.04-23.14.25:518][151]LogWorld: Bringing up level for play took: 0.001381
+[2023.01.04-23.14.25:518][151]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.01.04-23.14.25:520][151]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.14.25:520][151]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.14.25:520][151]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.14.25:520][151]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.14.25:524][151]PIE: El servidor ha iniciado la sesión
+[2023.01.04-23.14.25:528][151]PIE: Play in editor total start time 0.103 seconds.
+[2023.01.04-23.14.34:505][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.14.34:505][203]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.14.34:507][203]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-23.14.34:514][203]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.14.34:515][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.14.34:524][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-23.14.34:528][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.14.34:554][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-23.14.34:554][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.14.34:555][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.14.34:560][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.04-23.14.34:577][204]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.01.04-23.14.43:855][278]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.01.04-23.14.43:859][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-23.14.43:859][278]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (4 ene. 2023 11:14:43)
+[2023.01.04-23.14.43:859][278]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.14.43:868][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008643s)
+[2023.01.04-23.14.43:869][278]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.04-23.14.43:869][278]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2023.01.04-23.14.43:869][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009704s)
+[2023.01.04-23.14.43:899][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.04-23.14.43:900][278]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.01.04-23.14.43:900][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-23.14.43:900][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-23.14.43:900][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-23.14.43:900][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-23.14.43:900][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-23.14.43:900][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.04-23.14.43:900][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-23.14.43:900][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-23.14.43:901][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-23.14.43:901][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-23.14.43:901][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-23.14.43:901][278]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.04-23.14.43:903][278]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.04-23.14.43:903][278]LogAudioMixer: Display: 1: FrontRight
+[2023.01.04-23.14.43:912][278]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2023.01.04-23.14.43:912][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-23.14.43:912][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-23.14.43:912][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-23.14.43:913][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.04-23.14.43:913][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.04-23.14.43:913][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.04-23.14.43:913][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.04-23.14.43:913][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.04-23.14.43:913][278]LogInit: FAudioDevice initialized.
+[2023.01.04-23.14.43:913][278]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2023.01.04-23.14.43:967][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.14.43:967][278]LogLoad: Game class is 'GameMode'
+[2023.01.04-23.14.43:969][278]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.04-17.14.43
+[2023.01.04-23.14.43:969][278]LogWorld: Bringing up level for play took: 0.001457
+[2023.01.04-23.14.43:969][278]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.01.04-23.14.43:971][278]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.14.43:971][278]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.04-23.14.43:971][278]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.14.43:971][278]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.04-23.14.43:975][278]PIE: El servidor ha iniciado la sesión
+[2023.01.04-23.14.43:979][278]PIE: Play in editor total start time 0.12 seconds.
+[2023.01.04-23.15.24:433][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-23.15.24:433][ 81]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.04-23.15.24:434][ 81]LogSlate: Window 'Pasantia_Sam Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.01.04-23.15.24:438][ 81]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.15.24:439][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.15.24:446][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-23.15.24:450][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.15.24:477][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.15.24:478][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.15.24:484][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.04-23.15.24:504][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.01.04-23.16.08:329][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.01.04-23.16.08:343][972]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap_Auto4F8F88E0E44671E2CB47FA9AE0978BAD7.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2023.01.04-23.16.08:352][972]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.051
+[2023.01.04-23.16.08:352][972]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.01.04-23.16.08:352][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2023.01.04-23.16.08:386][972]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2023.01.04-23.16.08:386][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2023.01.04-23.16.08:475][972]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacter_Auto4F93DB60942028FFB2967DDBEA12C4BDE.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2023.01.04-23.16.08:476][972]LogFileHelpers: Auto-saving content packages took 0.124
+[2023.01.04-23.16.36:496][588]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacterAC98738F403189C19E875EB0E77FE769.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-23.16.36:507][588]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-23.16.36:507][588]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-23.19.31:218][188]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2023.01.04-23.19.31:305][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.01.04-23.19.32:446][257]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonCharacterC11263604F7B28B1D41D988F2A1AB0A2.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2023.01.04-23.19.32:456][257]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.01.04-23.19.32:456][257]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.04-23.19.39:082][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.01.04-23.19.41:694][920]LogSlate: Window 'Guardar contenido' being destroyed
+[2023.01.04-23.19.41:857][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.04-23.19.41:870][920]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap92EF111943FAD7755BB0989288FB94F3.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.04-23.19.41:875][920]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.044
+[2023.01.04-23.19.41:918][920]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.41:918][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.19.42:146][920]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.42:146][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.19.42:157][920]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.42:157][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.19.42:423][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.04-23.19.42:423][920]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.42:423][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.19.42:548][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.04-23.19.42:548][920]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.42:548][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-23.19.42:651][920]LogSlate: Window 'Pasantia_Sam - Unreal Editor' being destroyed
+[2023.01.04-23.19.42:776][920]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.04-23.19.42:776][920]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.04-23.19.42:776][921]Cmd: QUIT_EDITOR
+[2023.01.04-23.19.42:777][921]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.01.04-23.19.42:787][921]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.04-23.19.42:818][921]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.04-23.19.42:818][921]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.04-23.19.42:819][921]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2023.01.04-23.19.42:819][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.19.42:820][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.04-23.19.42:831][921]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.04-23.19.42:836][921]LogExit: Preparing to exit.
+[2023.01.04-23.19.42:930][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.01.04-23.19.44:064][921]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:067][921]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:071][921]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:073][921]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:075][921]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:077][921]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:080][921]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:082][921]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:084][921]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:106][921]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/] 
+[2023.01.04-23.19.44:200][921]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.01.04-23.19.44:220][921]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.01.04-23.19.44:225][921]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-23.19.44:227][921]LogExit: Editor shut down
+[2023.01.04-23.19.44:229][921]LogExit: Transaction tracking system shut down
+[2023.01.04-23.19.44:904][921]LogExit: Object subsystem successfully closed.
+[2023.01.04-23.19.44:924][921]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.04-23.19.44:924][921]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.04-23.19.44:924][921]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.04-23.19.44:926][921]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.04-23.19.44:926][921]LogShaderCompilers: Display: ================================================
+[2023.01.04-23.19.44:961][921]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.01.04-23.19.45:324][921]LogModuleManager: Shutting down and abandoning module PinnedCommandList (902)
+[2023.01.04-23.19.45:325][921]LogModuleManager: Shutting down and abandoning module SkeletonEditor (900)
+[2023.01.04-23.19.45:326][921]LogModuleManager: Shutting down and abandoning module AnimationEditor (898)
+[2023.01.04-23.19.45:328][921]LogModuleManager: Shutting down and abandoning module SequencerWidgets (896)
+[2023.01.04-23.19.45:328][921]LogModuleManager: Shutting down and abandoning module BlueprintGraph (894)
+[2023.01.04-23.19.45:328][921]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (892)
+[2023.01.04-23.19.45:328][921]LogModuleManager: Shutting down and abandoning module Voice (890)
+[2023.01.04-23.19.45:328][921]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (888)
+[2023.01.04-23.19.45:328][921]LogModuleManager: Shutting down and abandoning module SceneOutliner (886)
+[2023.01.04-23.19.45:328][921]LogModuleManager: Shutting down and abandoning module AddContentDialog (884)
+[2023.01.04-23.19.45:331][921]LogModuleManager: Shutting down and abandoning module WidgetCarousel (883)
+[2023.01.04-23.19.45:331][921]LogModuleManager: Shutting down and abandoning module EditorWidgets (880)
+[2023.01.04-23.19.45:331][921]LogModuleManager: Shutting down and abandoning module StatsViewer (878)
+[2023.01.04-23.19.45:332][921]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (876)
+[2023.01.04-23.19.45:333][921]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (874)
+[2023.01.04-23.19.45:334][921]LogModuleManager: Shutting down and abandoning module AutomationWorker (872)
+[2023.01.04-23.19.45:335][921]LogModuleManager: Shutting down and abandoning module SteamVREditor (870)
+[2023.01.04-23.19.45:335][921]LogModuleManager: Shutting down and abandoning module OculusMR (868)
+[2023.01.04-23.19.45:335][921]LogModuleManager: Shutting down and abandoning module PlanarCut (866)
+[2023.01.04-23.19.45:335][921]LogModuleManager: Shutting down and abandoning module CharacterAI (864)
+[2023.01.04-23.19.45:335][921]LogModuleManager: Shutting down and abandoning module OpenXRInput (862)
+[2023.01.04-23.19.45:336][921]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (860)
+[2023.01.04-23.19.45:338][921]LogModuleManager: Shutting down and abandoning module TakeRecorder (859)
+[2023.01.04-23.19.45:341][921]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (856)
+[2023.01.04-23.19.45:341][921]LogModuleManager: Shutting down and abandoning module TakesCore (854)
+[2023.01.04-23.19.45:341][921]LogModuleManager: Shutting down and abandoning module GooglePADEditor (852)
+[2023.01.04-23.19.45:341][921]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (850)
+[2023.01.04-23.19.45:342][921]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (848)
+[2023.01.04-23.19.45:342][921]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (846)
+[2023.01.04-23.19.45:342][921]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (844)
+[2023.01.04-23.19.45:342][921]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (842)
+[2023.01.04-23.19.45:344][921]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (840)
+[2023.01.04-23.19.45:345][921]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (838)
+[2023.01.04-23.19.45:346][921]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (836)
+[2023.01.04-23.19.45:347][921]LogModuleManager: Shutting down and abandoning module TextureAlignMode (834)
+[2023.01.04-23.19.45:347][921]LogModuleManager: Shutting down and abandoning module BspMode (832)
+[2023.01.04-23.19.45:348][921]LogModuleManager: Shutting down and abandoning module GeometryMode (830)
+[2023.01.04-23.19.45:348][921]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (828)
+[2023.01.04-23.19.45:348][921]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (826)
+[2023.01.04-23.19.45:348][921]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (824)
+[2023.01.04-23.19.45:348][921]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (822)
+[2023.01.04-23.19.45:348][921]LogModuleManager: Shutting down and abandoning module WebMMedia (820)
+[2023.01.04-23.19.45:349][921]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (818)
+[2023.01.04-23.19.45:350][921]LogModuleManager: Shutting down and abandoning module SequenceRecorder (817)
+[2023.01.04-23.19.45:350][921]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (812)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (810)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (808)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (806)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (804)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (802)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (800)
+[2023.01.04-23.19.45:351][921]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (798)
+[2023.01.04-23.19.45:352][921]LogModuleManager: Shutting down and abandoning module SmartSnapping (796)
+[2023.01.04-23.19.45:352][921]LogModuleManager: Shutting down and abandoning module SessionServices (794)
+[2023.01.04-23.19.45:352][921]LogModuleManager: Shutting down and abandoning module MeshPaint (792)
+[2023.01.04-23.19.45:353][921]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (790)
+[2023.01.04-23.19.45:353][921]LogModuleManager: Shutting down and abandoning module FoliageEdit (788)
+[2023.01.04-23.19.45:354][921]LogModuleManager: Shutting down and abandoning module LandscapeEditor (786)
+[2023.01.04-23.19.45:357][921]LogModuleManager: Shutting down and abandoning module MeshPaintMode (784)
+[2023.01.04-23.19.45:357][921]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (782)
+[2023.01.04-23.19.45:357][921]LogModuleManager: Shutting down and abandoning module ActorPickerMode (780)
+[2023.01.04-23.19.45:357][921]LogModuleManager: Shutting down and abandoning module PlacementMode (778)
+[2023.01.04-23.19.45:358][921]LogModuleManager: Shutting down and abandoning module ViewportSnapping (776)
+[2023.01.04-23.19.45:358][921]LogModuleManager: Shutting down and abandoning module ViewportInteraction (774)
+[2023.01.04-23.19.45:358][921]LogModuleManager: Shutting down and abandoning module ClothPainter (772)
+[2023.01.04-23.19.45:360][921]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (771)
+[2023.01.04-23.19.45:361][921]LogModuleManager: Shutting down and abandoning module LogVisualizer (768)
+[2023.01.04-23.19.45:364][921]LogModuleManager: Shutting down and abandoning module IntroTutorials (766)
+[2023.01.04-23.19.45:365][921]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (765)
+[2023.01.04-23.19.45:365][921]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (762)
+[2023.01.04-23.19.45:365][921]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2023.01.04-23.19.45:366][921]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2023.01.04-23.19.45:366][921]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (757)
+[2023.01.04-23.19.45:818][921]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (754)
+[2023.01.04-23.19.45:818][921]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (752)
+[2023.01.04-23.19.45:818][921]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (750)
+[2023.01.04-23.19.45:818][921]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (748)
+[2023.01.04-23.19.45:818][921]LogModuleManager: Shutting down and abandoning module TraceInsights (746)
+[2023.01.04-23.19.45:827][921]MemoryProfiler: Shutdown
+[2023.01.04-23.19.45:828][921]NetworkingProfiler: Shutdown
+[2023.01.04-23.19.45:828][921]LoadingProfiler: Shutdown
+[2023.01.04-23.19.45:830][921]TimingProfiler: Shutdown
+[2023.01.04-23.19.45:834][921]LogModuleManager: Shutting down and abandoning module TraceServices (745)
+[2023.01.04-23.19.45:836][921]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (742)
+[2023.01.04-23.19.45:836][921]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (740)
+[2023.01.04-23.19.45:836][921]LogModuleManager: Shutting down and abandoning module InputBindingEditor (738)
+[2023.01.04-23.19.45:839][921]LogModuleManager: Shutting down and abandoning module MergeActors (736)
+[2023.01.04-23.19.45:840][921]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (734)
+[2023.01.04-23.19.45:841][921]LogModuleManager: Shutting down and abandoning module LocalizationService (733)
+[2023.01.04-23.19.45:842][921]LogModuleManager: Shutting down and abandoning module HardwareTargeting (730)
+[2023.01.04-23.19.45:842][921]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (728)
+[2023.01.04-23.19.45:843][921]LogModuleManager: Shutting down and abandoning module UndoHistory (726)
+[2023.01.04-23.19.45:843][921]LogModuleManager: Shutting down and abandoning module XmlParser (724)
+[2023.01.04-23.19.45:843][921]LogModuleManager: Shutting down and abandoning module Blutility (722)
+[2023.01.04-23.19.45:843][921]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (720)
+[2023.01.04-23.19.45:843][921]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (719)
+[2023.01.04-23.19.45:844][921]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (716)
+[2023.01.04-23.19.45:844][921]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (715)
+[2023.01.04-23.19.45:844][921]LogModuleManager: Shutting down and abandoning module SettingsEditor (712)
+[2023.01.04-23.19.45:845][921]LogModuleManager: Shutting down and abandoning module ProjectLauncher (710)
+[2023.01.04-23.19.45:846][921]LogModuleManager: Shutting down and abandoning module SessionFrontend (708)
+[2023.01.04-23.19.45:847][921]LogModuleManager: Shutting down and abandoning module ProfilerClient (706)
+[2023.01.04-23.19.45:848][921]LogModuleManager: Shutting down and abandoning module DeviceManager (704)
+[2023.01.04-23.19.45:848][921]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (703)
+[2023.01.04-23.19.45:881][921]LogModuleManager: Shutting down and abandoning module AutomationController (700)
+[2023.01.04-23.19.45:881][921]LogModuleManager: Shutting down and abandoning module AutomationWindow (698)
+[2023.01.04-23.19.45:882][921]LogModuleManager: Shutting down and abandoning module Layers (696)
+[2023.01.04-23.19.45:884][921]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (694)
+[2023.01.04-23.19.45:884][921]LogModuleManager: Shutting down and abandoning module DetailCustomizations (692)
+[2023.01.04-23.19.45:885][921]LogModuleManager: Shutting down and abandoning module PackagesDialog (690)
+[2023.01.04-23.19.45:885][921]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (688)
+[2023.01.04-23.19.45:887][921]LogModuleManager: Shutting down and abandoning module Persona (686)
+[2023.01.04-23.19.45:888][921]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (685)
+[2023.01.04-23.19.45:888][921]LogModuleManager: Shutting down and abandoning module AnimGraph (683)
+[2023.01.04-23.19.45:888][921]LogModuleManager: Shutting down and abandoning module Kismet (680)
+[2023.01.04-23.19.45:903][921]LogModuleManager: Shutting down and abandoning module KismetWidgets (679)
+[2023.01.04-23.19.45:903][921]LogModuleManager: Shutting down and abandoning module GraphEditor (676)
+[2023.01.04-23.19.45:903][921]LogModuleManager: Shutting down and abandoning module StructViewer (674)
+[2023.01.04-23.19.45:903][921]LogModuleManager: Shutting down and abandoning module ClassViewer (672)
+[2023.01.04-23.19.45:904][921]LogModuleManager: Shutting down and abandoning module Toolbox (670)
+[2023.01.04-23.19.45:904][921]LogModuleManager: Shutting down and abandoning module ModuleUI (668)
+[2023.01.04-23.19.45:905][921]LogModuleManager: Shutting down and abandoning module OutputLog (666)
+[2023.01.04-23.19.45:908][921]LogModuleManager: Shutting down and abandoning module GammaUI (664)
+[2023.01.04-23.19.45:908][921]LogModuleManager: Shutting down and abandoning module Documentation (662)
+[2023.01.04-23.19.45:909][921]LogModuleManager: Shutting down and abandoning module LiveCoding (660)
+[2023.01.04-23.19.45:910][921]LogModuleManager: Shutting down and abandoning module LevelSequence (658)
+[2023.01.04-23.19.45:910][921]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (656)
+[2023.01.04-23.19.45:911][921]LogModuleManager: Shutting down and abandoning module MovieScene (654)
+[2023.01.04-23.19.45:911][921]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (652)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module LauncherPlatform (650)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module AnalyticsET (648)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module PortalServices (646)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module PortalRpc (644)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module MessagingRpc (642)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (640)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module AudioMixerCore (639)
+[2023.01.04-23.19.45:912][921]LogModuleManager: Shutting down and abandoning module AIModule (636)
+[2023.01.04-23.19.45:913][921]LogModuleManager: Shutting down and abandoning module GameplayDebugger (635)
+[2023.01.04-23.19.45:913][921]LogModuleManager: Shutting down and abandoning module AITestSuite (633)
+[2023.01.04-23.19.45:913][921]LogModuleManager: Shutting down and abandoning module NavigationSystem (631)
+[2023.01.04-23.19.45:913][921]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (628)
+[2023.01.04-23.19.45:918][921]LogModuleManager: Shutting down and abandoning module ProfilerService (626)
+[2023.01.04-23.19.46:101][921]LogModuleManager: Shutting down and abandoning module TaskGraph (624)
+[2023.01.04-23.19.46:102][921]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (622)
+[2023.01.04-23.19.46:102][921]LogModuleManager: Shutting down and abandoning module OculusEditor (620)
+[2023.01.04-23.19.46:107][921]LogModuleManager: Shutting down and abandoning module OculusInput (618)
+[2023.01.04-23.19.46:107][921]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (616)
+[2023.01.04-23.19.46:107][921]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (614)
+[2023.01.04-23.19.46:107][921]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (612)
+[2023.01.04-23.19.46:107][921]LogModuleManager: Shutting down and abandoning module CollectionManager (611)
+[2023.01.04-23.19.46:108][921]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (608)
+[2023.01.04-23.19.46:108][921]LogOpenImageDenoise: OIDN shutting down
+[2023.01.04-23.19.46:108][921]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (606)
+[2023.01.04-23.19.46:108][921]LogModuleManager: Shutting down and abandoning module MotoSynth (604)
+[2023.01.04-23.19.46:108][921]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (602)
+[2023.01.04-23.19.46:110][921]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (600)
+[2023.01.04-23.19.46:111][921]LogModuleManager: Shutting down and abandoning module MeshModelingTools (598)
+[2023.01.04-23.19.46:111][921]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (596)
+[2023.01.04-23.19.46:111][921]LogModuleManager: Shutting down and abandoning module ModelingOperators (594)
+[2023.01.04-23.19.46:112][921]LogModuleManager: Shutting down and abandoning module ModelingComponents (592)
+[2023.01.04-23.19.46:112][921]LogModuleManager: Shutting down and abandoning module MeshConversion (590)
+[2023.01.04-23.19.46:113][921]LogModuleManager: Shutting down and abandoning module DynamicMesh (588)
+[2023.01.04-23.19.46:114][921]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (586)
+[2023.01.04-23.19.46:114][921]LogModuleManager: Shutting down and abandoning module GeometricObjects (584)
+[2023.01.04-23.19.46:115][921]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (582)
+[2023.01.04-23.19.46:115][921]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (581)
+[2023.01.04-23.19.46:115][921]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (578)
+[2023.01.04-23.19.46:115][921]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (576)
+[2023.01.04-23.19.46:115][921]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (574)
+[2023.01.04-23.19.46:115][921]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (572)
+[2023.01.04-23.19.46:115][921]LogModuleManager: Shutting down and abandoning module FractureEditor (570)
+[2023.01.04-23.19.46:116][921]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (568)
+[2023.01.04-23.19.46:116][921]LogModuleManager: Shutting down and abandoning module ChaosNiagara (566)
+[2023.01.04-23.19.46:116][921]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (564)
+[2023.01.04-23.19.46:117][921]LogModuleManager: Shutting down and abandoning module AlembicImporter (562)
+[2023.01.04-23.19.46:117][921]LogModuleManager: Shutting down and abandoning module AlembicLibrary (561)
+[2023.01.04-23.19.46:117][921]LogModuleManager: Shutting down and abandoning module GeometryCache (560)
+[2023.01.04-23.19.46:117][921]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (559)
+[2023.01.04-23.19.46:117][921]LogModuleManager: Shutting down and abandoning module BackChannel (554)
+[2023.01.04-23.19.46:118][921]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (552)
+[2023.01.04-23.19.46:118][921]LogModuleManager: Shutting down and abandoning module AutomationUtils (550)
+[2023.01.04-23.19.46:118][921]LogModuleManager: Shutting down and abandoning module SynthesisEditor (548)
+[2023.01.04-23.19.46:118][921]LogModuleManager: Shutting down and abandoning module Synthesis (546)
+[2023.01.04-23.19.46:118][921]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (544)
+[2023.01.04-23.19.46:118][921]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (542)
+[2023.01.04-23.19.46:118][921]LogModuleManager: Shutting down and abandoning module OpenXREditor (540)
+[2023.01.04-23.19.46:119][921]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (538)
+[2023.01.04-23.19.46:119][921]LogModuleManager: Shutting down and abandoning module TakeSequencer (536)
+[2023.01.04-23.19.46:119][921]LogModuleManager: Shutting down and abandoning module TakeMovieScene (534)
+[2023.01.04-23.19.46:119][921]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (532)
+[2023.01.04-23.19.46:119][921]LogModuleManager: Shutting down and abandoning module GooglePAD (530)
+[2023.01.04-23.19.46:119][921]LogModuleManager: Shutting down and abandoning module EditableMesh (528)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (527)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (524)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module CableComponent (522)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module AudioCapture (520)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (519)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module AssetTags (516)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (514)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (512)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module AppleImageUtils (510)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module AndroidPermission (508)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (506)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (504)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module ScreenshotTools (502)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (500)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (498)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (496)
+[2023.01.04-23.19.46:120][921]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (494)
+[2023.01.04-23.19.46:121][921]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (492)
+[2023.01.04-23.19.46:121][921]LogModuleManager: Shutting down and abandoning module TemplateSequence (490)
+[2023.01.04-23.19.46:121][921]LogModuleManager: Shutting down and abandoning module PluginBrowser (488)
+[2023.01.04-23.19.46:123][921]LogModuleManager: Shutting down and abandoning module StylusInput (486)
+[2023.01.04-23.19.46:123][921]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (484)
+[2023.01.04-23.19.46:123][921]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (482)
+[2023.01.04-23.19.46:124][921]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (480)
+[2023.01.04-23.19.46:125][921]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (478)
+[2023.01.04-23.19.46:125][921]LogModuleManager: Shutting down and abandoning module CryptoKeys (476)
+[2023.01.04-23.19.46:125][921]LogModuleManager: Shutting down and abandoning module CurveEditorTools (474)
+[2023.01.04-23.19.46:126][921]LogModuleManager: Shutting down and abandoning module MediaCompositing (472)
+[2023.01.04-23.19.46:126][921]LogModuleManager: Shutting down and abandoning module ImgMedia (470)
+[2023.01.04-23.19.46:126][921]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2023.01.04-23.19.46:129][921]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (466)
+[2023.01.04-23.19.46:130][921]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (464)
+[2023.01.04-23.19.46:131][921]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (462)
+[2023.01.04-23.19.46:131][921]LogModuleManager: Shutting down and abandoning module UObjectPlugin (460)
+[2023.01.04-23.19.46:132][921]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2023.01.04-23.19.46:133][921]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (456)
+[2023.01.04-23.19.46:133][921]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2023.01.04-23.19.46:133][921]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2023.01.04-23.19.46:133][921]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2023.01.04-23.19.46:135][921]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (448)
+[2023.01.04-23.19.46:137][921]LogModuleManager: Shutting down and abandoning module GitSourceControl (446)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module SourceControl (445)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (442)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (440)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (438)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (436)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (434)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (432)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (430)
+[2023.01.04-23.19.46:138][921]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (428)
+[2023.01.04-23.19.46:139][921]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (426)
+[2023.01.04-23.19.46:139][921]LogModuleManager: Shutting down and abandoning module LiveLink (424)
+[2023.01.04-23.19.47:036][921]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (422)
+[2023.01.04-23.19.47:036][921]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (420)
+[2023.01.04-23.19.47:036][921]LogModuleManager: Shutting down and abandoning module Paper2DEditor (418)
+[2023.01.04-23.19.47:039][921]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (416)
+[2023.01.04-23.19.47:040][921]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (414)
+[2023.01.04-23.19.47:041][921]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (412)
+[2023.01.04-23.19.47:041][921]LogModuleManager: Shutting down and abandoning module SignificanceManager (410)
+[2023.01.04-23.19.47:041][921]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2023.01.04-23.19.47:042][921]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2023.01.04-23.19.47:042][921]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.01.04-23.19.47:043][921]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.01.04-23.19.47:043][921]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.01.04-23.19.47:043][921]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.01.04-23.19.47:043][921]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.01.04-23.19.47:043][921]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (392)
+[2023.01.04-23.19.47:043][921]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (390)
+[2023.01.04-23.19.47:044][921]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (388)
+[2023.01.04-23.19.47:044][921]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (386)
+[2023.01.04-23.19.47:044][921]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (384)
+[2023.01.04-23.19.47:044][921]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.01.04-23.19.47:044][921]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (382)
+[2023.01.04-23.19.47:044][921]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (380)
+[2023.01.04-23.19.47:044][921]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (378)
+[2023.01.04-23.19.47:044][921]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (376)
+[2023.01.04-23.19.47:046][921]LogModuleManager: Shutting down and abandoning module MagicLeapController (374)
+[2023.01.04-23.19.47:046][921]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (372)
+[2023.01.04-23.19.47:046][921]LogModuleManager: Shutting down and abandoning module MagicLeapAR (370)
+[2023.01.04-23.19.47:046][921]LogModuleManager: Shutting down and abandoning module UdpMessaging (368)
+[2023.01.04-23.19.47:146][921]LogModuleManager: Shutting down and abandoning module ActorSequence (366)
+[2023.01.04-23.19.47:146][921]LogModuleManager: Shutting down and abandoning module TcpMessaging (364)
+[2023.01.04-23.19.47:255][921]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (362)
+[2023.01.04-23.19.47:257][921]LogModuleManager: Shutting down and abandoning module LevelEditor (361)
+[2023.01.04-23.19.47:266][921]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (360)
+[2023.01.04-23.19.47:267][921]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (358)
+[2023.01.04-23.19.47:268][921]LogModuleManager: Shutting down and abandoning module MainFrame (356)
+[2023.01.04-23.19.47:272][921]LogModuleManager: Shutting down and abandoning module HotReload (355)
+[2023.01.04-23.19.47:272][921]LogModuleManager: Shutting down and abandoning module ToolMenus (351)
+[2023.01.04-23.19.47:272][921]LogModuleManager: Shutting down and abandoning module TreeMap (349)
+[2023.01.04-23.19.47:273][921]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2023.01.04-23.19.47:274][921]LogModuleManager: Shutting down and abandoning module DataValidation (344)
+[2023.01.04-23.19.47:274][921]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (342)
+[2023.01.04-23.19.47:274][921]LogModuleManager: Shutting down and abandoning module FacialAnimation (340)
+[2023.01.04-23.19.47:274][921]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (338)
+[2023.01.04-23.19.47:274][921]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (336)
+[2023.01.04-23.19.47:274][921]LogModuleManager: Shutting down and abandoning module Niagara (334)
+[2023.01.04-23.19.47:278][921]LogModuleManager: Shutting down and abandoning module SignalProcessing (333)
+[2023.01.04-23.19.47:278][921]LogModuleManager: Shutting down and abandoning module NiagaraEditor (331)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module ContentBrowser (330)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module ContentBrowserData (329)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module NiagaraCore (324)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (322)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module AnimationSharing (320)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module GameplayCameras (318)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (316)
+[2023.01.04-23.19.47:280][921]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2023.01.04-23.19.47:282][921]LogModuleManager: Shutting down and abandoning module Paper2D (312)
+[2023.01.04-23.19.47:282][921]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (310)
+[2023.01.04-23.19.47:291][921]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (308)
+[2023.01.04-23.19.47:291][921]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (306)
+[2023.01.04-23.19.47:291][921]LogModuleManager: Shutting down and abandoning module PacketHandler (304)
+[2023.01.04-23.19.47:291][921]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2023.01.04-23.19.47:291][921]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2023.01.04-23.19.47:293][921]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2023.01.04-23.19.47:293][921]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2023.01.04-23.19.47:293][921]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2023.01.04-23.19.47:293][921]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2023.01.04-23.19.47:294][921]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2023.01.04-23.19.47:295][921]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2023.01.04-23.19.47:295][921]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2023.01.04-23.19.47:296][921]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2023.01.04-23.19.47:296][921]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2023.01.04-23.19.47:298][921]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2023.01.04-23.19.47:301][921]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2023.01.04-23.19.47:302][921]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2023.01.04-23.19.47:302][921]LogModuleManager: Shutting down and abandoning module MessageLog (275)
+[2023.01.04-23.19.47:302][921]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2023.01.04-23.19.47:305][921]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2023.01.04-23.19.47:305][921]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2023.01.04-23.19.47:306][921]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (264)
+[2023.01.04-23.19.47:306][921]LogModuleManager: Shutting down and abandoning module UnrealEd (262)
+[2023.01.04-23.19.47:306][921]LogModuleManager: Shutting down and abandoning module MRMesh (260)
+[2023.01.04-23.19.47:306][921]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (258)
+[2023.01.04-23.19.47:306][921]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (256)
+[2023.01.04-23.19.47:306][921]LogModuleManager: Shutting down and abandoning module XAudio2 (254)
+[2023.01.04-23.19.47:307][921]LogModuleManager: Shutting down and abandoning module Networking (252)
+[2023.01.04-23.19.47:307][921]LogModuleManager: Shutting down and abandoning module Core (250)
+[2023.01.04-23.19.47:307][921]LogModuleManager: Shutting down and abandoning module MaterialEditor (248)
+[2023.01.04-23.19.47:308][921]LogModuleManager: Shutting down and abandoning module MovieSceneTools (246)
+[2023.01.04-23.19.47:311][921]LogModuleManager: Shutting down and abandoning module CurveEditor (245)
+[2023.01.04-23.19.47:311][921]LogModuleManager: Shutting down and abandoning module Sequencer (243)
+[2023.01.04-23.19.47:311][921]LogModuleManager: Shutting down and abandoning module EditorStyle (242)
+[2023.01.04-23.19.47:316][921]LogModuleManager: Shutting down and abandoning module KismetCompiler (238)
+[2023.01.04-23.19.47:316][921]LogModuleManager: Shutting down and abandoning module MeshBuilder (236)
+[2023.01.04-23.19.47:316][921]LogModuleManager: Shutting down and abandoning module MeshUtilities (234)
+[2023.01.04-23.19.47:317][921]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (233)
+[2023.01.04-23.19.47:317][921]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (232)
+[2023.01.04-23.19.47:318][921]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (231)
+[2023.01.04-23.19.47:318][921]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (229)
+[2023.01.04-23.19.47:318][921]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (227)
+[2023.01.04-23.19.47:320][921]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (225)
+[2023.01.04-23.19.47:322][921]LogModuleManager: Shutting down and abandoning module MaterialBaking (221)
+[2023.01.04-23.19.47:322][921]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (216)
+[2023.01.04-23.19.47:322][921]LogModuleManager: Shutting down and abandoning module DerivedDataCache (214)
+[2023.01.04-23.19.47:322][921]LogModuleManager: Shutting down and abandoning module TargetPlatform (212)
+[2023.01.04-23.19.47:323][921]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (211)
+[2023.01.04-23.19.47:325][921]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (209)
+[2023.01.04-23.19.47:326][921]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (207)
+[2023.01.04-23.19.47:326][921]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (205)
+[2023.01.04-23.19.47:327][921]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (203)
+[2023.01.04-23.19.47:328][921]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (201)
+[2023.01.04-23.19.47:328][921]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (199)
+[2023.01.04-23.19.47:328][921]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (197)
+[2023.01.04-23.19.47:328][921]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (195)
+[2023.01.04-23.19.47:328][921]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (193)
+[2023.01.04-23.19.47:328][921]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (191)
+[2023.01.04-23.19.47:330][921]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (189)
+[2023.01.04-23.19.47:330][921]LogModuleManager: Shutting down and abandoning module ImageWrapper (188)
+[2023.01.04-23.19.47:330][921]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (185)
+[2023.01.04-23.19.47:330][921]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (183)
+[2023.01.04-23.19.47:331][921]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (181)
+[2023.01.04-23.19.47:331][921]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (179)
+[2023.01.04-23.19.47:331][921]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (177)
+[2023.01.04-23.19.47:332][921]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (175)
+[2023.01.04-23.19.47:332][921]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (173)
+[2023.01.04-23.19.47:332][921]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (171)
+[2023.01.04-23.19.47:371][921]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (169)
+[2023.01.04-23.19.47:372][921]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (167)
+[2023.01.04-23.19.47:372][921]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (165)
+[2023.01.04-23.19.47:372][921]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (163)
+[2023.01.04-23.19.47:372][921]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (161)
+[2023.01.04-23.19.47:381][921]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (159)
+[2023.01.04-23.19.47:381][921]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (157)
+[2023.01.04-23.19.47:382][921]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (155)
+[2023.01.04-23.19.47:382][921]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (153)
+[2023.01.04-23.19.47:382][921]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (151)
+[2023.01.04-23.19.47:383][921]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (149)
+[2023.01.04-23.19.47:383][921]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (147)
+[2023.01.04-23.19.47:383][921]LogModuleManager: Shutting down and abandoning module Messaging (145)
+[2023.01.04-23.19.47:383][921]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (143)
+[2023.01.04-23.19.47:410][921]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (141)
+[2023.01.04-23.19.47:542][921]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (139)
+[2023.01.04-23.19.47:542][921]LogModuleManager: Shutting down and abandoning module D3D11RHI (136)
+[2023.01.04-23.19.47:542][921]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.01.04-23.19.47:542][921]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.01.04-23.19.47:543][921]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.01.04-23.19.47:543][921]LogModuleManager: Shutting down and abandoning module PhysXCooking (128)
+[2023.01.04-23.19.47:543][921]LogModuleManager: Shutting down and abandoning module Chaos (126)
+[2023.01.04-23.19.47:544][921]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2023.01.04-23.19.47:544][921]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2023.01.04-23.19.47:545][921]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2023.01.04-23.19.47:545][921]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (118)
+[2023.01.04-23.19.47:545][921]LogModuleManager: Shutting down and abandoning module SteamVRInput (116)
+[2023.01.04-23.19.47:545][921]LogModuleManager: Shutting down and abandoning module SteamVR (114)
+[2023.01.04-23.19.47:546][921]LogHMD: Freeing OpenVRDLLHandle.
+[2023.01.04-23.19.47:546][921]LogModuleManager: Shutting down and abandoning module OculusHMD (112)
+[2023.01.04-23.19.47:547][921]LogModuleManager: Shutting down and abandoning module ChaosCloth (110)
+[2023.01.04-23.19.47:547][921]LogModuleManager: Shutting down and abandoning module OpenXRAR (108)
+[2023.01.04-23.19.47:547][921]LogModuleManager: Shutting down and abandoning module AugmentedReality (107)
+[2023.01.04-23.19.47:547][921]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (104)
+[2023.01.04-23.19.47:547][921]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (102)
+[2023.01.04-23.19.47:547][921]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.04-23.19.47:548][921]LogModuleManager: Shutting down and abandoning module OpenXRHMD (101)
+[2023.01.04-23.19.47:554][921]LogModuleManager: Shutting down and abandoning module HairStrandsCore (98)
+[2023.01.04-23.19.47:554][921]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2023.01.04-23.19.47:554][921]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (92)
+[2023.01.04-23.19.47:554][921]LogModuleManager: Shutting down and abandoning module ChunkDownloader (90)
+[2023.01.04-23.19.47:555][921]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (88)
+[2023.01.04-23.19.47:555][921]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2023.01.04-23.19.47:556][921]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2023.01.04-23.19.47:558][921]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2023.01.04-23.19.47:569][921]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2023.01.04-23.19.47:569][921]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.01.04-23.19.47:569][921]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD9CEAC15-47FA-50E2-E73B-0B88C67A1746%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=ab97dd8647d28ec96b5e379a2342ca0e%7Cfc90b623cb3b4fc08af4e7e96714030d%7Cc671380f-c312-49d9-9730-e3ac4000506c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.01.04-23.19.47:570][921]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.01.04-23.19.47:613][921]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2023.01.04-23.19.47:622][921]LogModuleManager: Shutting down and abandoning module MLSDK (72)
+[2023.01.04-23.19.47:622][921]LogModuleManager: Shutting down and abandoning module MagicLeap (70)
+[2023.01.04-23.19.47:623][921]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2023.01.04-23.19.47:627][921]LogModuleManager: Shutting down and abandoning module Media (67)
+[2023.01.04-23.19.47:627][921]LogModuleManager: Shutting down and abandoning module MediaInfo (66)
+[2023.01.04-23.19.47:627][921]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2023.01.04-23.19.47:627][921]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2023.01.04-23.19.47:628][921]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2023.01.04-23.19.47:628][921]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2023.01.04-23.19.47:628][921]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2023.01.04-23.19.47:628][921]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.01.04-23.19.47:628][921]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.01.04-23.19.47:628][921]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.01.04-23.19.47:631][921]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2023.01.04-23.19.47:631][921]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2023.01.04-23.19.47:631][921]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2023.01.04-23.19.47:631][921]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2023.01.04-23.19.47:631][921]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.01.04-23.19.47:631][921]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.01.04-23.19.47:632][921]LogXGEController: Cleaning working directory: C:/Users/HTS/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.01.04-23.19.47:632][921]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.01.04-23.19.47:633][921]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.01.04-23.19.47:636][921]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.01.04-23.19.47:639][921]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.01.04-23.19.47:640][921]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.01.04-23.19.47:640][921]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.01.04-23.19.47:640][921]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.01.04-23.19.47:647][921]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.01.04-23.19.47:648][921]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.01.04-23.19.47:649][921]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.01.04-23.19.47:649][921]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.01.04-23.19.47:649][921]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.01.04-23.19.47:649][921]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.01.04-23.19.47:649][921]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.01.04-23.19.47:649][921]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.01.04-23.19.47:650][921]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.01.04-23.19.47:652][921]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.01.04-23.19.47:652][921]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.01.04-23.19.47:679][921]LogD3D11RHI: Shutdown
+[2023.01.04-23.19.47:679][921]LogD3D11RHI: CleanupD3DDevice
+[2023.01.04-23.19.47:718][921]LogExit: Exiting.
+[2023.01.04-23.19.47:741][921]Log file closed, 01/04/23 17:19:47
