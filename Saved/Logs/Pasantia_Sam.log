@@ -1651,3 +1651,210 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.01.08-05.02.14:598][320]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Props/SM_MERGED_SM_Bush_8.SM_MERGED_SM_Bush_8
 [2023.01.08-05.02.14:598][320]LogContentValidation: Display: Validating Texture2D /Game/StarterContent/Textures/T_TableRound_M.T_TableRound_M
 [2023.01.08-05.02.14:598][320]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.08-05.04.31:732][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.08-05.04.31:736][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.08-05.04.31:736][ 12]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (7 ene. 2023 17:04:31)
+[2023.01.08-05.04.31:758][ 12]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.08-05.04.31:768][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010290s)
+[2023.01.08-05.04.31:769][ 12]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.08-05.04.31:769][ 12]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2023.01.08-05.04.31:769][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011540s)
+[2023.01.08-05.04.31:790][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.08-05.04.31:792][ 12]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.08-05.04.31:792][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.08-05.04.31:792][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.08-05.04.31:792][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.08-05.04.31:792][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.08-05.04.31:792][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.08-05.04.31:792][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.08-05.04.31:792][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.08-05.04.31:792][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.08-05.04.31:793][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.08-05.04.31:793][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.08-05.04.31:793][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.08-05.04.31:793][ 12]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.08-05.04.31:795][ 12]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.08-05.04.31:795][ 12]LogAudioMixer: Display: 1: FrontRight
+[2023.01.08-05.04.31:803][ 12]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2023.01.08-05.04.31:803][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.08-05.04.31:803][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.08-05.04.31:803][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.08-05.04.31:803][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.08-05.04.31:803][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.08-05.04.31:803][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.08-05.04.31:804][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.08-05.04.31:804][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.08-05.04.31:804][ 12]LogInit: FAudioDevice initialized.
+[2023.01.08-05.04.31:804][ 12]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.01.08-05.04.31:812][ 12]LogLoad: Game class is 'GameMode'
+[2023.01.08-05.04.31:815][ 12]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.07-23.04.31
+[2023.01.08-05.04.31:816][ 12]LogWorld: Bringing up level for play took: 0.002455
+[2023.01.08-05.04.31:816][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.01.08-05.04.31:817][ 12]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.08-05.04.31:817][ 12]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.01.08-05.04.31:817][ 12]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.01.08-05.04.31:818][ 12]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.01.08-05.04.31:818][ 12]PIE: El servidor ha iniciado la sesión
+[2023.01.08-05.04.31:818][ 12]PIE: Play in editor total start time 0.084 seconds.
+[2023.01.08-05.04.32:889][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-05.04.32:889][134]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.08-05.04.32:889][134]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.08-05.04.32:889][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-05.04.32:896][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.08-05.04.32:906][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.08-05.04.32:921][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.08-05.04.32:921][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.08-05.04.32:922][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.08-05.04.32:927][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.01.08-05.04.32:959][136]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.01.08-05.04.35:358][400]MapCheck: New page: Revisión del mapa
+[2023.01.08-05.04.35:368][400]Cmd: MAP REBUILD ALLVISIBLE
+[2023.01.08-05.04.35:368][400]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.01.08-05.04.35:369][400]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2023.01.08-05.04.35:393][400]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.01.08-05.04.35:393][400]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.01.08-05.04.35:393][400]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.01.08-05.04.35:411][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.08-05.04.35:423][400]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2023.01.08-05.04.35:426][400]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2023.01.08-05.04.35:442][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.08-05.04.35:443][400]LightingResults: New page: Diseño de la iluminación - 7 ene. 2023 17:04:35
+[2023.01.08-05.04.35:490][400]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.01.08-05.04.35:523][400]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.01.08-05.04.35:532][400]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.01.08-05.04.36:038][400]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.01.08-05.04.36:038][400]LogSwarmInterface: [TryOpenConnection] Local Process ID is 888
+[2023.01.08-05.04.42:644][400]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.01.08-05.04.42:644][400]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.01.08-05.04.42:644][400]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.01.08-05.04.42:644][400]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.01.08-05.04.42:644][400]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.01.08-05.04.42:755][400]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.01.08-05.04.42:755][400]MapCheck: New page: ThirdPersonExampleMap - 7 ene. 2023 17:04:42
+[2023.01.08-05.04.42:755][400]MapCheck: Error: WorldInfo_0 Los mapas necesitan rediseñar la iluminación 
+[2023.01.08-05.04.42:756][400]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.452ms to complete.
+[2023.01.08-05.04.42:757][400]LogEditorBuildUtils: Build time 0:07
+[2023.01.08-05.04.43:037][400]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 13AD4BD63EC849DC316D29780548B712E3CA5176), compiling. 
+[2023.01.08-05.04.43:040][400]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:041][400]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 9B396B21328A1CC4B53519F1C2E35637248BA7FE), compiling. 
+[2023.01.08-05.04.43:043][400]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.01.08-05.04.43:043][400]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.01.08-05.04.43:043][400]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:043][400]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:073][400]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2023.01.08-05.04.43:073][400]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2023.01.08-05.04.43:073][400]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:073][400]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 42AF478FFFDBE86827241ACCDFC1B6118F356144), compiling. 
+[2023.01.08-05.04.43:077][400]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:079][400]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2023.01.08-05.04.43:079][400]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2023.01.08-05.04.43:079][400]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:079][400]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: EB7A157555FA45A14DFFB239658D4CA02EB6E2AE), compiling. 
+[2023.01.08-05.04.43:083][400]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:084][400]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 039EC206E0D88834C96FB8EE64B990A5FBD3955F), compiling. 
+[2023.01.08-05.04.43:088][400]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2023.01.08-05.04.43:088][400]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2023.01.08-05.04.43:088][400]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:088][400]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:187][400]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2023.01.08-05.04.43:187][400]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2023.01.08-05.04.43:188][400]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.08-05.04.43:745][401]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.08-05.04.43:745][401]LogShaderCompilers: Display: Total job queries 294, among them cache hits 135 (45.92%)
+[2023.01.08-05.04.43:745][401]LogShaderCompilers: Display: Tracking 111 distinct input hashes that result in 49 distinct outputs (44.14%)
+[2023.01.08-05.04.43:745][401]LogShaderCompilers: Display: RAM used: 0.29 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.01.08-05.04.43:745][401]LogShaderCompilers: Display: ================================================
+[2023.01.08-05.04.44:045][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.01.08-05.04.47:228][608]LogSlate: Window 'Registro del mensaje' being destroyed
+[2023.01.08-05.04.47:236][608]LogSlate: Window 'Registro del mensaje' being destroyed
+[2023.01.08-05.05.06:132][ 50]Job is a success!
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:      Bricks at depth
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:          1: 8.3% covering 6.2% of volume
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:          2: 89.6% covering 1.0% of volume
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:      Bricks in each level
+[2023.01.08-05.05.06:279][ 51]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 48 bricks 	 100.0% (Persistent Level)
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.01.08-05.05.06:467][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.08-05.05.06:467][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.01.08-05.05.06:467][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 1024X512)
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 64X32)
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 64X64)
+[2023.01.08-05.05.06:467][ 51]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 64X64)
+[2023.01.08-05.05.06:467][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.08-05.05.06:467][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.08-05.05.06:467][ 51]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.08-05.05.06:660][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2023.01.08-05.05.06:660][ 51]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2023.01.08-05.05.06:660][ 51]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 20 meshes in 3 LightmapResourceClusters (6.7 Meshes per cluster).
+[2023.01.08-05.05.06:682][ 51]Lightmass on DESKTOP-QU4BSI3: 22.1 sec total, 148 ms importing, 18 ms setup, 1.46 sec photons, 20.4 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 5:07 min total, 1:26 min processing.
+[2023.01.08-05.05.06:688][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.01.08-05.05.06:738][ 51]LogStaticLightingSystem: Illumination: 31.2 sec (180 ms encoding lightmaps, 132 ms encoding shadowmaps)
+[2023.01.08-05.05.06:738][ 51]LogStaticLightingSystem: Lightmap texture memory:  5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2023.01.08-05.05.06:738][ 51]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2023.01.08-05.05.07:664][ 51]DumpUnbuiltLightIteractions
+[2023.01.08-05.05.07:664][ 51]Lights with unbuilt interactions: 0
+[2023.01.08-05.05.07:664][ 51]
+[2023.01.08-05.05.07:664][ 51]Primitives with unbuilt interactions: 0
+[2023.01.08-05.05.07:762][ 51]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2023.01.08-05.05.07:807][ 52]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.01.08-05.05.07:807][ 52]MapCheck: New page: ThirdPersonExampleMap - 7 ene. 2023 17:05:07
+[2023.01.08-05.05.07:808][ 52]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.357ms to complete.
+[2023.01.08-05.05.09:389][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.01.08-05.05.10:336][215]LogSlate: Window 'Guardar contenido' being destroyed
+[2023.01.08-05.05.10:428][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.08-05.05.10:453][215]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap8431DF114CD7C0A5BEC4648ED3984BA3.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.08-05.05.10:457][215]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.049
+[2023.01.08-05.05.10:533][215]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap_BuiltDataA391DC734EA892431AD42B9E83B9CBC8.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.08-05.05.10:542][215]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.08-05.05.10:542][215]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.01.08-05.05.10:543][215]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Content: 'C:/Program Files/UE_4.27/Engine/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/MeshModelingToolset/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/MeshModelingToolset/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ModelingToolsEditorMode/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:445][450]SourceControl: fatal: C:/Program Files/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/HTS/Documents/Unreal Projects/Pasantia_Sam'
+[2023.01.08-05.05.13:633][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.01.08-05.05.13:659][450]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap12944BE7488E64543C5501854F6AAD99.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.08-05.05.13:663][450]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.050
+[2023.01.08-05.05.13:738][450]LogSavePackage: Moving '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Saved/ThirdPersonExampleMap_BuiltData31E8B1F043026F24377290B2E4FABDF6.tmp' to '../../../../../Users/HTS/Documents/Unreal Projects/Pasantia_Sam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.08-05.05.26:418][450]LogSlate: Window 'Enviar archivos' being destroyed
+[2023.01.08-05.05.27:189][450]LogSourceControl: commit successful: [master f2c7e4b] Esta vez sí, última renderización.
+[2023.01.08-05.05.27:222][450]SourceControl: [master f2c7e4b] Esta vez sí, última renderización.
+[2023.01.08-05.05.27:222][450]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.01.08-05.05.27:225][450]SourceControl: Commited [master f2c7e4b] Esta vez sí, última renderización..
+[2023.01.08-05.05.27:245][451]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.08-05.05.27:245][451]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.01.08-05.05.27:245][451]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
